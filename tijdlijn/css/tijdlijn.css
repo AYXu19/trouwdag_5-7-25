@@ -19,6 +19,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
   text-align: justify;
+  text-align: center;
 }
 
 .timeline {
@@ -168,4 +169,7 @@ body {
   font-size: 40px;
   font-weight: bold;
   cursor: pointer;
+}
+.timeline img {
+  width: 35%;
 }
